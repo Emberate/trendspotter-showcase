@@ -52,6 +52,10 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				'myntra-pink': 'hsl(var(--myntra-pink))',
+				'myntra-pink-light': 'hsl(var(--myntra-pink-light))',
+				'myntra-orange': 'hsl(var(--myntra-orange))',
+				'myntra-purple': 'hsl(var(--myntra-purple))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
